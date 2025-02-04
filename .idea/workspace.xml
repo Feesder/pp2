@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab904ea0-8a5a-45d2-9acb-7d7b8009c1f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tsis3/classes/class1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/classes/class2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/classes/class3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/classes/class4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/classes/class5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/classes/class6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function1/GuessTheNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis3/function2/function.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2relLOBqiE4kEETRa5AidJjLzY9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.2.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.8.executor": "Run",
+    "Python.9.executor": "Run",
+    "Python.class4.executor": "Run",
+    "Python.class5.executor": "Run",
+    "Python.classes.executor": "Run",
+    "Python.classes2.executor": "Run",
+    "Python.classes3.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.string.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "Rebasing main",
+    "last_opened_file_path": "D:/Documents/portfolio/rich"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qop62\OneDrive\Рабочий стол\Учеба\pp2\tsis3\function1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab904ea0-8a5a-45d2-9acb-7d7b8009c1f4" name="Changes" comment="" />
+      <created>1736927365041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736927365041</updated>
+    </task>
+    <servers />
+  </component>
+</project>
