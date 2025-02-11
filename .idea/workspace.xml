@@ -5,27 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab904ea0-8a5a-45d2-9acb-7d7b8009c1f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tsis3/classes/class1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/classes/class2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/classes/class3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/classes/class4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/classes/class5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/classes/class6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function1/GuessTheNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsis3/function2/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/date/date1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/date/date2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/date/date3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/date/date4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/generator/generator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/generator/generator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/generator/generator3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/generator/generator4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/generator/generator5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/json/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/json/sample-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/math/math1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/math/math2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/math/math3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsis4/math/math4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +63,25 @@
     "Python.9.executor": "Run",
     "Python.class4.executor": "Run",
     "Python.class5.executor": "Run",
+    "Python.class6.executor": "Run",
     "Python.classes.executor": "Run",
     "Python.classes2.executor": "Run",
     "Python.classes3.executor": "Run",
+    "Python.date.executor": "Run",
+    "Python.date2.executor": "Run",
+    "Python.date3.executor": "Run",
+    "Python.date4.executor": "Run",
     "Python.function.executor": "Run",
+    "Python.generator1.executor": "Run",
+    "Python.generator2.executor": "Run",
+    "Python.generator3.executor": "Run",
+    "Python.generator4.executor": "Run",
+    "Python.generator5.executor": "Run",
+    "Python.math1.executor": "Run",
+    "Python.math2.executor": "Run",
+    "Python.math3.executor": "Run",
+    "Python.math4.executor": "Run",
+    "Python.parser.executor": "Run",
     "Python.string.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -82,6 +92,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qop62\OneDrive\Рабочий стол\Учеба\pp2\tsis4\date" />
       <recent name="C:\Users\qop62\OneDrive\Рабочий стол\Учеба\pp2\tsis3\function1" />
     </key>
   </component>
