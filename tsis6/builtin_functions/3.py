@@ -3,7 +3,7 @@ def is_palindrome(input_string: str) -> bool:
     return cleaned_string == cleaned_string[::-1]
 
 
-input_string = "Malayalam"
+input_string = "Mala alam"
 if is_palindrome(input_string):
     print(f'"{input_string}" is a palindrome.')
 else:
