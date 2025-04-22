@@ -28,7 +28,7 @@ def main():
     while running:
         now = datetime.now()
 
-        right_arm = pygame.transform.rotate(original_right_arm, -now.minute * 6)
+        right_arm = pygame.transform.rotate(original_right_arm, -now.minute * 6 - 50)
         right = right_arm.get_rect(center=center)
 
         left_arm = pygame.transform.rotate(original_left_arm, -now.second * 6)
